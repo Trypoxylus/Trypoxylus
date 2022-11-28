@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 
 ### Status
 ![Trypoxylus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trypoxylus&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trypoxylus)](https://github.com/Trypoxylus/github-readme-stats)
