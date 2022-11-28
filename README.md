@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+### My skills
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,ruby,java,vscode&theme=light)](https://skillicons.dev)
+
+### Status
+![Trypoxylus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trypoxylus&count_private=true)
