@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### My skills
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,ruby,java,js,react,redux,md,latexvscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,ruby,java,js,react,redux,md,latex,vscode&theme=light)](https://skillicons.dev)
 
 ### Status
 ![Trypoxylus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trypoxylus&count_private=true)
